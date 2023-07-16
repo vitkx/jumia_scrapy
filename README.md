@@ -27,7 +27,7 @@ The project is structured as follows:
 To set up the project, clone the repository:
 
 ```bash
-git clone https://github.com/evans-nyang/jumia-scrapy.git
+git clone https://github.com/vitkx/jumia_scrapy.git
 ```
 
 ## Contributing
